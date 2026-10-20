@@ -31,7 +31,7 @@ plt.rcParams["axes.unicode_minus"] = False
 
 # ============ 1. 配置区（按需修改） ============
 
-API_KEY = "e076780c454b0c98d57a27ff820707e0"      # ← 改成你自己的 Key
+API_KEY =       # ← 改成你自己的 Key
 BASE_URL = "https://restapi.amap.com/v5/place/text"
 
 KEYWORDS = ["大学", "地铁站", "博物馆", "电影院"]   # 要搜索的 POI 类型
